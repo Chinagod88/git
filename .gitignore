@@ -7,3 +7,5 @@ __pycache__/
 *.dylib
 .DS_Store
 Thumbs.db
+node_modules
+.env
