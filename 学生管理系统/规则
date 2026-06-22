@@ -1,0 +1,13 @@
+学生类:Student
+姓名，性别，学号，年龄，联系电话，简历
+
+
+学生管理系统:StudentCMS
+管理学员
+添加，修改，删除，查询，保存，退出
+
+main.py 程序的主入口
+StudentCMS.py
+Student.py
+
+#一个程序一个角色
